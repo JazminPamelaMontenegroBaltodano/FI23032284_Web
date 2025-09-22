@@ -92,7 +92,7 @@ static int SumFor(int n)
 
 ---
 
-Prompt 5 (código largo):  
+Prompt 5:  
 "Necesito un ejemplo completo en C# de una aplicación de consola que incluya dos métodos: uno iterativo (SumIte) y otro con fórmula (SumFor), y que además los ejecute en el Main mostrando los resultados para un valor de prueba de n = 10."
 
 Respuesta resumida:  
@@ -146,4 +146,5 @@ Con la fórmula se llega al límite antes, mientras que la iterativa resiste un 
 
 El método recursivo funciona igual que la suma iterativa porque al final hace lo mismo: va sumando de 1 en 1.  
 La diferencia es que al crecer mucho n, el programa no llega al overflow del int, sino que falla antes con un StackOverflowException, porque la pila de llamadas se llena con demasiadas funciones anidadas.
+
 
