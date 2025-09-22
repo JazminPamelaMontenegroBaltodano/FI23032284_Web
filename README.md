@@ -5,7 +5,6 @@
 
 ﻿# Comandos utilizados: 
 
-```bash
 # Crear solución y proyecto
 dotnet new sln -n PP1
 dotnet new console -n SumaApp
@@ -103,3 +102,4 @@ Los resultados son diferentes porque en C# el tipo `int` tiene un límite máxim
 ### ¿Qué cree que sucedería si se utilizan las mismas estrategias (ascendente y descendente) pero con el método recursivo de suma (SumRec)?
 
 El método recursivo funciona igual que la suma iterativa porque al final hace lo mismo: va sumando de 1 en 1.
+
