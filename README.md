@@ -41,8 +41,7 @@ git push origin main
 ---
 
 # Páginas web consultadas
-- Documentación oficial de C#: https://learn.microsoft.com/en-us/dotnet/csharp/
-- Documentación de CLI .NET: https://learn.microsoft.com/en-us/dotnet/core/tools/
+- 
 
 ---
 
@@ -147,3 +146,4 @@ Con la fórmula se llega al límite antes, mientras que la iterativa resiste un 
 
 El método recursivo funciona igual que la suma iterativa porque al final hace lo mismo: va sumando de 1 en 1.  
 La diferencia es que al crecer mucho n, el programa no llega al overflow del int, sino que falla antes con un StackOverflowException, porque la pila de llamadas se llena con demasiadas funciones anidadas.
+
