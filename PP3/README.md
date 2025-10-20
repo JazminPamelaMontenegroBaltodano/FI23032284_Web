@@ -22,8 +22,8 @@ https://chatgpt.com/share/68f5c623-a210-8011-b09a-7234424abc69
 1) **¿Es posible enviar valores en el Body (por ejemplo, en el Form) del Request de tipo GET?**
 
 No, no se pueden enviar valores en el **Body** de una solicitud **GET**, porque este método no está hecho para eso.  
-El protocolo **HTTP** no define cómo manejar un cuerpo en este tipo de peticiones, así que hacerlo puede generar errores o problemas con el caché y algunos servidores.  
-Si se necesita enviar información más compleja, lo correcto es usar el método **POST** o enviar los datos como parámetros en la **URL** del **GET**.  
+El protocolo **HTTP** no dice cómo manejar un cuerpo en este tipo de peticiones, así que hacerlo puede generar errores o problemas con el caché.  
+Si se necesita enviar información más compleja, lo correcto seria el método **POST** o enviar los datos como parámetros en la **URL** del **GET**.  
 
 
 ---
