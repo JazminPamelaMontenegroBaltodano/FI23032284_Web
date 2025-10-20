@@ -1,6 +1,6 @@
 # PP3 — Minimal API (ASP.NET Core, .NET 8)
 
-**Nombre:** Jazmin Pamela Montenegro Baltodano  
+**Nombre:** Jazmín Pamela Montenegro Baltodano  
 **Carné:** FI23032284
 
 ## Comandos
@@ -23,7 +23,7 @@ https://chatgpt.com/share/68f5c623-a210-8011-b09a-7234424abc69
 
 No, no se pueden enviar valores en el **Body** de una solicitud **GET**, porque este método no está hecho para eso.  
 El protocolo **HTTP** no dice cómo manejar un cuerpo en este tipo de peticiones, así que hacerlo puede generar errores o problemas con el caché.  
-Si se necesita enviar información más compleja, lo correcto seria el método **POST** o enviar los datos como parámetros en la **URL** del **GET**.  
+Si se necesita enviar información más compleja, lo correcto sería el método **POST** o enviar los datos como parámetros en la **URL** del **GET**.  
 
 
 ---
