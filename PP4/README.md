@@ -19,9 +19,9 @@ dotnet run
 
 ## Prompts
 
-https://learn.microsoft.com/en-us/ef/core/providers/sqlite/?tabs=dotnet-core-cli
-https://learn.microsoft.com/en-us/ef/core/
-ChatGPT (OpenAI), Gemini y Copilot para depurar código y adaptar DataLoader y TSV Writer.
+**https://learn.microsoft.com/en-us/ef/core/providers/sqlite/?tabs=dotnet-core-cli**
+**https://learn.microsoft.com/en-us/ef/core/**
+**ChatGPT (OpenAI), Gemini y Copilot para depurar código y adaptar DataLoader y TSV Writer.**
 
 ## Preguntas
 
